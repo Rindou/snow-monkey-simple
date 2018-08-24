@@ -1,2 +1,2 @@
-# Snow Monkey Design Skin RN Simple
+# Snow Monkeyのデザインスキン「リンドウ・シンプル」
 WordPressテーマ、Snow Monkeyのデザインスキンです。
