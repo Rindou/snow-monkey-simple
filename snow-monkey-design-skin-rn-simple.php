@@ -2,7 +2,7 @@
 /**
  * Plugin name: リンドウ・シンプル
  * Description: 竜胆（りんどう）Webデザインが作成したSnow Monkey用のデザインスキン
- * Version: 0.1.0
+ * Version: 0.1.2
  * Text Domain: snow-monkey-design-skin-rn-simple
  *
  * @package snow-monkey-design-skin-rn-simple
