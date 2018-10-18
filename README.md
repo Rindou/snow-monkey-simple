@@ -1,2 +1,2 @@
-# Snow Monkeyのデザインスキン「リンドウ・シンプル」
+# Snow Monkeyのデザインスキン「リンドウ・カラー」
 WordPressテーマ、Snow Monkeyのデザインスキンです。
