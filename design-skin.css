@@ -254,8 +254,17 @@ background-color: rgba(0,0,0,.02);
 /**
  * .wpco
  */
+.wpco .contents-outline a {
+	padding: .6rem 0;
+}
+
 .wpco .contents-outline a:before {
 	border-radius: 3px;
+	    margin: calc(.43478rem - 4px) .46739rem 0 0;
+}
+
+.c-widget .wpco .contents-outline a:before {
+	margin-top: 1px;
 }
 
 .wpco .contents-outline li li>a {
