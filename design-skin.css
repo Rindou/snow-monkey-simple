@@ -335,6 +335,10 @@ background-color: rgba(0,0,0,.02);
 	background-color: transparent!important;
 }
 
+.c-prev-next-nav__item-figure > img {
+	display: none;
+}
+
 .c-prev-next-nav__item>a::before {
 	content: none;
 }
