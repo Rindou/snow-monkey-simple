@@ -17,8 +17,14 @@ add_action( 'plugins_loaded', function() {
 	} );
 } );
 
-add_action( 'after_setup_theme', function() {
-	if ( class_exists( '\Snow_Monkey\app\model\Design_Skin' ) ) {
-		new \Snow_Monkey\app\model\Design_Skin( __FILE__ );
+add_action(
+	'after_setup_theme',
+	function() {
+		if ( class_exists( '\Snow_Monkey\app\model\Design_Skin' ) ) {
+			new \Snow_Monkey\app\model\Design_Skin( __FILE__ );
+		}
+		if ( class_exists( '\Framework\Model\Design_Skin' ) ) {
+			new \Framework\Model\Design_Skin( __FILE__ );
+		}
 	}
-} );
+);
